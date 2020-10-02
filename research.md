@@ -3,6 +3,7 @@ layout: page
 title: Research
 ---
 <br>
+We make decisions every day. These decisions rely on current information – what we see, hear, and feel. Our decisions also rely on our past experiences, or memories. Even something as trivial as deciding to turn at a traffic light depends attention to the “now” (i.e., the light is “green”) and memory of where we are going (i.e., the grocery store is on this road). Yet, we don’t understand how our brains integrate this information to inform our decisions. Our lack of understanding is particularly troubling given that patients with devastating mental health disorders, such as schizophrenia, attention deficit-hyperactivity disorder (ADHD), and major depressive disorder, all have dramatic impairments in attention and memory.    
 <div style="text-align:center"><img src="/Circuit_Manipulation.jpg" width="500" height="140"></div><br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Manipulation of behaviorally-relevant neural circuits</u></i><br><br>
 I use viral targeting and expression of proteins such as DREADD receptors and opsins to causally link projection-specific circuits with distinct aspects of learning, memory, and decision making (e.g., hippocampal neurons with projections to the prefrontal cortex with emotional memory recall in the above image).</span></div><br>
