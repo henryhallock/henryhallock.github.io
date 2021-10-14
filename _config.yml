@@ -19,7 +19,7 @@ owner:
   mendeley: #username
   google:
     plus: #username
-    analytics:
+    analytics: "UA-154796978-1"
     verify:
     scholar: 
   facebook: #username
