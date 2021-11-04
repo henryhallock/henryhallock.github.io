@@ -4,7 +4,7 @@ title: Research
 ---
 <br>
 <div style="text-align:left"><span style="font-family: 'Arial';">Our lab is interested in the neural mechanisms governing working memory and attention-guided behavior. To this end, several overarching questions currently guide our research.</span></div>
-<br><br>
+<br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Which circuits are important for attention and working memory? Are these circuits distinct, or overlapping?</u></i></span></div><br>
 <div style="text-align:center"><img src="/Brain_Schematic.png" width="180" height="210"><img src="/Histology.png" width = "280" height="210"></div><br>
 <div style="text-align:left"><span style="font-family: 'Arial';">The brain is functionally organized into discrete anatomical circuits – groups of neurons that send axons to, and receive synaptic contact from, other groups of neurons. Much research in the past decade has demonstrated that specific circuits have tight relationships with behavior – circuits within the same brain region can even control opposing behavioral phenotypes! It is tempting, therefore, to assume that cognitive functions, like attention and memory, also rely on function in discrete circuits. Where are these circuits located? To tackle this question, we use a combination of viral tracing, touchscreen-guided behavioral testing, and immunohistochemistry in mice. We think that the results from these experiments will lead to a higher resolution “road map” for attention and working memory in the brain, and could also lead to novel ideas about circuit disruption in patients with attentional and memory-related symptoms.</span></div>
